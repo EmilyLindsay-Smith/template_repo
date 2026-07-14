@@ -86,7 +86,7 @@ jobs:
 
   typecheck:
     name: pyrefly type check
-    runs-on: ubuntru latest
+    runs-on: ubuntu latest
     steps:
       - uses: actions/checkout@v4
       - uses: facebook/pyrefly@main
