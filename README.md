@@ -1,6 +1,6 @@
 # my-project
 
-Generates input files for Splice to run behavioural experiments in Xmod.
+This is an opinionated template repo.
 
 ## Status
 
